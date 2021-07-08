@@ -1,2 +1,2 @@
 # Image-segmentation
-extracted dominant colors using clustering alog=rithm
+extracted dominant colors using clustering alogrithm
